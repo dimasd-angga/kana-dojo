@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "copilot/add-back-to-top-button",
+    "dependabot/npm_and_yarn/npm_and_yarn-25952f29de",
+    "feature/calligraphy-handwriting",
+    "fix/issue-16481-good-first-issue-add-new-japanese-prover",
+    "main",
+    "nightly",
+    "preview",
+    "revert-15647-fix/rapid-enter-correct-tab-flicker"
+  ],
+  "parent": {
+    "copilot/add-back-to-top-button": "main",
+    "dependabot/npm_and_yarn/npm_and_yarn-25952f29de": "main",
+    "feature/calligraphy-handwriting": "main",
+    "fix/issue-16481-good-first-issue-add-new-japanese-prover": "main",
+    "main": null,
+    "nightly": "main",
+    "preview": "main",
+    "revert-15647-fix/rapid-enter-correct-tab-flicker": "main"
+  },
+  "order": [
+    "main",
+    "copilot/add-back-to-top-button",
+    "dependabot/npm_and_yarn/npm_and_yarn-25952f29de",
+    "feature/calligraphy-handwriting",
+    "fix/issue-16481-good-first-issue-add-new-japanese-prover",
+    "nightly",
+    "preview",
+    "revert-15647-fix/rapid-enter-correct-tab-flicker"
+  ]
+}
