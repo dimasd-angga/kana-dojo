@@ -30,13 +30,13 @@
 # AI tooling state
 /.agent/
 /.agents/
+temp_auto_push.bat
 /.claude/
 /.claudeignore
 /.gemini/
 /.kiro/
 
 # editor settings (local-only)
-/.vscode/
 
 # debug
 npm-debug.log*
@@ -47,7 +47,6 @@ dev-output.log
 zizmor-report.json
 
 # env files (can opt-in for committing if needed)
-.env*
 
 # vercel
 .vercel
@@ -64,3 +63,6 @@ next-env.d.ts
 # Audio files - WAV kept locally as fallback, only Opus tracked in git
 /public/sounds/**/*.wav
 /public/sounds/click/click9/
+.gitignore
+branch_structure.json
+config.bat
